@@ -8,7 +8,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">-🔎 Hoje sou estudante, pretendo trabalhar na área de Dev ou QA <br>- ✌️ Quero superar meus limites e crescer cada vez mais <br> - 📖 Estudando C, C#</p>
+<p align="left">-🔎 Hoje sou estudante, pretendo trabalhar na área de Dev ou QA <br>- ✌️ Quero superar meus limites e crescer cada vez mais <br> - 📖 Estudando C, C#, Java</p>
 <div align="center">
   <a href="www.linkedin.com/in/joaovitordeosilva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
